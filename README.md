@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hey! 👋
 
-<!--
-**thea1992-x/thea1992-x** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm **thea1992-x**, a open-source contributor.
 
-Here are some ideas to get you started:
+## About
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🚀 Performance matters
+- 🤔 Exploring new technologies
+- 🎨 Code is poetry
+
+## Tech
+
+`SQLite` `C++` `Emacs` `Flask` `Nim`
+
+---
+
+_Zsh user._
